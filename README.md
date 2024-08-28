@@ -1,7 +1,3 @@
-Here’s a GitHub README template for your FHIR Database connection test code:
-
----
-
 # FHIR Database Connection Test
 
 This project demonstrates how to connect to a FHIR (Fast Healthcare Interoperability Resources) server and perform basic CRUD operations on patient data using the `Hl7.Fhir` library.
