@@ -20,7 +20,7 @@ This project demonstrates how to connect to a FHIR (Fast Healthcare Interoperabi
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/FhirDatabaseConnectionTest.git
+    git clone https://github.com/konzab/FhirDatabaseConnectionTest.git
     cd FhirDatabaseConnectionTest
     ```
 
